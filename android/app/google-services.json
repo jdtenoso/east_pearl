@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374922853987",
+    "project_id": "east-pearl",
+    "storage_bucket": "east-pearl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374922853987:android:5619cd148cdda0194a0256",
+        "android_client_info": {
+          "package_name": "com.davohnlatenoso.east_pearl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374922853987-dgpf97gdpg0ms4atsh0ackpd7mdtjc99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMRxMElbnccHuWCiZyU5dYL6vUmcG7s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374922853987-dgpf97gdpg0ms4atsh0ackpd7mdtjc99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
